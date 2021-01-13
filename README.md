@@ -65,3 +65,114 @@ Os times tem que:
 ## Dinâmica 3 (8 minutos)
 - linkar características do 1.0 x 3.0
 - são discrepantes
+
+## Happiness Door
+- Forma rápida pra saber ao final de uma reunião como ela foi
+- Termômetro
+
+# Sessão 2 - 2020-01-12
+
+> **Dica de App**: Card M3.0
+
+## Princípios
+> "Princípios raramente mudam, mas práticas sempre dependem do contexto"
+
+- Práticas estão sempre em evolução (sempre atualizam no site)
+  
+**Princípios** - "pés" (base) do Martie
+1. Engajar as pessoas e suas interações
+2. Melhorar o sistema de trabalho (quais variáveis não estão funcionando? como posso melhorar esses pontos?)
+3. Ajudar a encantar todos os clientes (não só o "cliente final", mas também os colegas de trabalho, outras equipes, etc)
+4. Gerenciar o Sistema, não as pessoas (papel do "jardineiro": dar condições para as pessoas crescerem)
+5. Co-criar o trabalho (criação em conjunto, com interação, empatia, diversidade)
+
+## Pensamento complexo
+- Fugimos de incertezas, complexidade
+- Buscamos **previsibilidade**: ciclos, começo, meio e fim
+- E.g., OKR: dão um direcionamento, reduz imprevisibilidade
+- **reducionismo**: reduzir dados/fenômenos complexos em termos simples
+> "A busca por soluções simples - ou simplificadas - para problemas complexos é uma consequência da incapacidade de lidar eficazmente com a complexidade" - Ackoff
+- típico erro dos reducionistas: apontar para coisas ou pessoas como causa dos problemas
+- Uma organização é um **Sistema complexo e adaptativo**
+
+### Os 5 porquês
+- técnica pra encontrar o problema raiz
+- instigar a pessoa pra refletir (se perguntar "5x" por que) até chegar ao problema raiz
+
+### Cynefin framework
+- "sense-making" device
+- ![cynefin](https://upload.wikimedia.org/wikipedia/commons/1/15/Cynefin_as_of_1st_June_2014.png)
+- não é uma disciplina do M30
+
+### VUCA
+- termo criado pelo exército americano pós Guerra Fria (mesmo depois de treinar, ao se deparar com a realidade ela era bem diferente do treinamento)
+- **V**olatility, **U**ncertainty, **C**omplexity, **A**mbiguity
+
+### 8 diretrizes para lidar com mudanças, incertezas e complexidade
+1. Tratar a complexidade como complexidade (use storytelling, metáforas, artifícios visuais)
+2. Use a diversidade de perspectivas (combinas múltiplas visões em diferentes perspectivas)
+3. Assuma a subjetividade e a coevolução
+4. Copie e adapte (combinação de coisas existentes = inovação)
+5. Considere a dependência do contexto (passado != presente != futuro)
+6. Antecipe, explore e adapte
+7. Encurte os ciclos de feedback
+8. Mantenha as opções em aberto
+
+## Motivação e Engajamento
+- dentro de **Energizar pessoas** (primeira visão do Martie)
+- **Personal maps** estão dentro do **Energizar pessoas** também
+
+> "**Significado** é essencial aos seres humanos" - Fritjof Capra, The Systems View of Life
+
+- motivação != engajamento
+- motivação: algo interno, o que ME motiva
+- engajamento: algo externo, vem do ambiente exterior
+
+### Motivação instrínseca e extrínseca
+- ambos são "meus" (internos)
+- intrínseca: desencadeada de dentro de uma pessoa (autonomia/maestria/propósito)
+- extrínseca: desencadeada por recompensas externas (salário/bônus/férias)
+- Engajamento = achar um equilíbrio dos 2 / maximizar ambos
+- como gestor: criar condições que maximizem as probabilidades de motivação e engajamento
+
+### Modelo CHAMPFROGS - Moving Motivators
+- trata da motivação no **contexto** da vida profissional
+- 10 motivadores que são intrínsecos, extrínsecos ou um pouco de ambos
+- influenciado por vários outros modelos de motivação humana
+- cada letra de CHAMPFROGS é uma "carta" de motivação
+
+1. **C**uriosidade (investigam)
+2. **H**onra (valores refletidos na forma como trabalham)
+3. **A**ceitação (precisam de aprovação)
+4. **M**aestria (trabalho desafia as competências, mas dentro das habilidades)
+5. **P**oder (de decisão, influenciar outras pessoas)
+6. **F**reedom (liberdade, independência, flexibilidade)
+7. **R**elação (bom contato social no ambiente de trabalho)
+8. **O**rdem (regras e políticas para um ambiente estável)
+9. **G**oal (objetivo/meta, propósito refletido no trabalho)
+10. **S**tatus (boa posição, nomenclatura de cargo e reconhecimento dos colegas)
+
+- gerentes: buscar maneiras de tornar o CHAMPFROGS propriedade sistêmica da empresa
+> "Não tente motivar por atacado"
+
+- **Livro**: Drive: the surprising truth about what motivates us - Daniel H. Pink (em pt-br: Motivação 3.0)
+  - motivação 3.0 é construída em torno de motivadores intrínsecos
+  - Autonomia
+  - Excelência
+  - Propósito
+
+## Dinâmica - Moving Motivators (15 minutos)
+- Ordernar os CHAMPFROGS da esquerda pra direita (os cards) - 10 minutos
+- Do mais importante para o menos importante para você
+- Não pode ter empate, reflita
+- Coloca pra cima o que está te afetando positivamente (WOW), deixa como está o que é neutro e joga pra baixo o que está te afetando negativamente - 5 minutos
+- Como transferir isso pro ambiente de trabalho? Idealmente no **1:1**, é muito pessoal
+
+### Modelo GROW
+- Goals
+- Reality
+- Options
+- Way Forward
+
+- **Livro**: Toyota Kata
+- **Kudo Cards**: reconhecer **comportamentos** e **não** entregas. Fisicamente: kudo box (cofrinho de kudos) ou kudo wall -> remoto: http://kudobox.co/ ou o App Card M3.0
