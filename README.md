@@ -176,3 +176,97 @@ Os times tem que:
 
 - **Livro**: Toyota Kata
 - **Kudo Cards**: reconhecer **comportamentos** e **não** entregas. Fisicamente: kudo box (cofrinho de kudos) ou kudo wall -> remoto: http://kudobox.co/ ou o App Card M3.0
+
+# Sessão 3 - 2021-01-13
+
+## Dinâmica 1 - Niko-Niko Calendar (8 minutos)
+- ferramenta de entendimento de contexto
+- como as pessoas estão se sentindo no dia a dia?
+- se a pessoa preenche no início do dia dá para tomar ações guiadas pelo mood da pessoa; se for preenchida no final do dia a dinâmica muda (a empresa deixou a pessoa mais feliz ou mais triste?)
+- é um quadro, todos veem o de todos
+
+## Delegar e empoderar
+- Módulo dentro da visão 2 do M3.0 - "Empoderar times"
+- capacitação; autorização; confiança da organização
+- delegar: quando eu delego algo, a responsabilidade continua minha, mas sem criar uma dinâmica de apontar culpados (sem apontar dedos)
+- to manage -> maneggiare (italiano) = manusear e treinar cavalos -> tarefa que exige confiança mútua e aprendizado mútuo (relação reflexiva de empoderamento)
+- controlar ou não controlar: controle central de um sistema complexo **não** funciona (infos. necessárias não estão todas nos nós centrais) -> metáfora das abelhas: sabem quais flores polinizar sem o controle da abelha rainha
+- ditadores x anarquistas: extremos de controle que na maioria das vezes devem ser evitados => encontrar o equilíbrio (é a arte da gestão)
+- **empoderamento**: autoridade + capacidade == **distribuir o controle**
+- objetivo: sistema mais **poderoso** e não pessoas melhor controladas
+- "Empoderar requer delegar decisões"
+- "Cercas invisíveis": gerente deve deixar bem claro qual é o nível de controle da pessoa ou da equipe em uma determinada área
+
+### Os 7 níveis da delegação - Delegation Poker
+- cartas que vão nos ajudar a encontrar o equilíbrio entre o "ditador" e o "anarquista"
+- todas as cartas podem ter uma restrição, e.g., budget
+- nível "certo": é um ato de equilíbrio, depende do contexto
+- **armadilha da micro gestão**: delegação de controle deve ser vista como um investimento -> há um custo de transação envolvido e pode demorar um pouco para obter um retorno sobre esse investimento
+
+**As cartas**
+1. Contar (você toma a decisão pelos outros e pode explicar sua motivação) - OK para início de equipes
+2. Vender (você toma a decisão pelos outros, mas tenta convencê-los de que você fez a escolha certa e os ajuda a se sentirem envolvidos) - Equipe já conhece um pouco do trabalho, mas talvez não esteja preparado pra tomar a decisão
+3. Consultar (você primeiro pede infos. que você leva em consideração antes de tomar uma decisão, ela precisa respeitar as opiniões das pessoas) - e.g., processo de contratação (gestor pede ajuda, mas ele toma a decisão)
+4. Concordar (você entra em uma discussão com todos os envolvidos e como um grupo, você alcança um **consenso** sobre a decisão) - todas as opiniões tem o mesmo peso
+5. Aconselhar (você oferece aos outros sua opinião e espera que eles ouçam suas sábias palavras, mas será uma decisão deles, não sua)
+6. Perguntar (primeiro, você deixa para os outros decidirem e depois, você pede a eles para convencê-lo da sabedoria de sua decisão)
+7. Delegar (você deixa a decisão para eles e nem quer saber sobre detalhes que apenas confundem seu cérebro) - Retrato de um time maduro que conhece bem os processos e tem autonomia
+
+- **Delegation board**: lista uma tarefa por linha e qual nível (dos 7) de delegação vai ser aplicado a cada
+- pode ser feito mapeando: onde estamos (sticker vermelho) / como queremos ser (sticker verde)
+- periodicamente o quadro pode ser revisto caso algo não esteja funcionando ou se o time quiser passar de nível
+
+### Modelo de Tuckman
+- possibilita analisar a maturidade do time
+- Estágios: Formação; Confrontração; Normalização; Performação; Dissolução
+- cada estágio pode ser acompanhado do uso de ferramentas como por exemplo: personal maps no estágio de formação, etc
+- turnover é um problema grande para evoluir nos estágios -> turnover pode ser resultado de um delegation board desequilibrado (equipe insatisfeita)
+
+### Dinâmica - Delegation Poker/Board (20 minutos)
+- Cenário de um bar com 30 mesas de bebidas e petiscos
+- Atividades e restrições
+- Pontuar 3 atividades com suas restrições (votar com o delegation poker)
+
+## Equipes remotas 
+- Dentro de "Crescer a estrutura"
+- "Não estamos de home office. Estamos em isolamento social"
+- Dica: perguntar para o time de que local da casa está trabalhando (sala, quarto, cozinha, etc)
+- [https://lp.buffer.com/state-of-remote-work-2020](https://lp.buffer.com/state-of-remote-work-2020) -> fatores positivos e negativos mais citados pelos trabalhadores remotos
+
+### 9 dicas para reuniões presenciais memoráveis
+1. Pare de convidar, venda suas reuniões
+2. Energize suas reuniões (especialmente as longas)
+3. Tome decisões rapidamente (mesmo que imperfeitas)
+4. Cozinhas são melhores que salas de conferências
+5. Torne as reuniões visuais (ppt, miro, fluxos desenhados, muitas cores, etc)
+6. Promova a transparência (gravar se for necessário)
+7. Quebre o gelo (trazer discussões, 2 verdades 1 mentira, etc)
+8. Encorage o conflito de ideias (como facilitador dê espaço para que todos possam falar)
+9. Melhore continuamente (happiness door, retrospectiva, cultura kaizen)
+
+Diferenças do online vs presencial
+[https://www.youtube.com/watch?v=DYu_bGbZiiQ](https://www.youtube.com/watch?v=DYu_bGbZiiQ)
+
+### Dicas reuniões remotas
+- lugar tranquilo
+- evite luz de fundo
+- acende as luzes para iluminar o rosto
+- teste a tecnologia, iluminação e conexão antecipadamente
+- desative notificações dos dispositivos
+- se conecte um pouco antes para testar
+- use um headset para melhorar o foco durante a reunião
+- aponte um facilitador para direcionar a reunião
+
+> "Nossa comunicação é composta de 55% da linguagem corporal" - Wikipedia Body Language -> ligue a câmera!
+- respeite o eventual desconforto da pessoa ligar a câmera, pode estar trabalhando de algum lugar que não esteja organizado/confortável
+- comunique-se com suas mãos também
+
+### Dicas gestão remota
+- deixe as expectativas claras -> o que você espera que as pessoas entreguem?
+- faça o **gemba** online -> gemba = o lugar real, chão de fábrica -> ir até onde as coisas realmente acontecem, observar, não interferir, entender o processo, explicar que não é um microgerenciamento -> cria empatia (sentir as dificuldades do outro)
+- comunique o trabalho; lidere pelo exemplo
+- crie acordos de trabalho com o time
+- realize reuniões presenciais regularmente
+- outras dicas: trabalho em pares; café virtual/happy hour; kudo cards; matriz: o que é importante e o que é urgente; team building remoto; alinhamento estratégico; método pomodoro
+- Team building remoto: personal map, identidade, valores, propósito (ikigai), comece pelo porque (ferramenta do Simon Sinek)
+- Alinhamento estratégico: OKR
