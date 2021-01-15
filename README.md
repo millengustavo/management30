@@ -270,3 +270,93 @@ Diferenças do online vs presencial
 - outras dicas: trabalho em pares; café virtual/happy hour; kudo cards; matriz: o que é importante e o que é urgente; team building remoto; alinhamento estratégico; método pomodoro
 - Team building remoto: personal map, identidade, valores, propósito (ikigai), comece pelo porque (ferramenta do Simon Sinek)
 - Alinhamento estratégico: OKR
+
+# Sessão 4 - 2021-01-14
+
+- Desenvolver competências (4 do Martie) -> gestores devem contribuir para desenvolver sua equipe
+
+## Melhor Feedback
+
+> "Feedback é o café da manhã dos campeões" - The One Minute Manager
+
+5 motivos para fornecer feedbacks
+1. Pode manter a equipe evoluindo (metáfora do jardineiro)
+2. Dá uma sensação de pertencimento e propósito
+3. Fomenta o crescimento e felicidade
+4. Destrava a mudança e inovação (feedback construtivo)
+5. Feedback evita que equipes fiquem amarradas e desanimadas (todos estamos em processo de aprendizagem contínuo)
+
+> "Os líderes sabem a importância de ter alguém em suas vidas que lhes dirá a verdade infalivelmente e sem medo" - Warren Bennis
+
+**Feedbacks em tempos de trabalho remoto**: são ainda mais importantes para ficarmos mais próximos das pessoas
+
+**Esqueça o feedback sanduíche**: você se sente bem, mas não ajuda a sua equipe
+
+### Feedback Wrap
+- prática do Management 3.0
+
+1. **Descreva seu contexto**: comece oferecendo um contexto para aumentar a compreensão e a apreciação da outra pessoa por sua situação
+2. **Liste suas observações**: você fornece observações - sem apontar o dedo - de exemplos e instâncias específicos
+3. **Expresse suas emoções**: para que o destinatário saiba como você se sente sobre os fatos, criando consciência do impacto deles em você, sem culpar ninguém em particular
+4. **Classificar por valor**: você explica suas necessidades, porque o receptor pode não perceber o que é importante para você
+5. **Termine com sugestões**: você permite que a pessoa descubra o que precisa ser feito para fechar a lacuna entre necessidades e fatos e oferece uma sugestão ou duas para avançar as coisas
+
+- Feedback Wrap é baseado na CNV, porém é adicionado um passo extra, o primeiro, que é o de descrever o contexto
+
+### Comunicação Não-Violenta (CNV)
+- Observar - sem julgamento
+- Sentimento - expandir o vocabulário, sentimentos não se resumem a feliz, triste, cansado
+- Necessidade - o motivo daquilo ser importante pra mim
+- Pedido
+
+- girafa é o símbolo da CNV
+  - grandes orelhas: escutar com empatia
+  - longo pescoço: ver além dos julgamentos e partilhar essa consciência
+  - maior coração: a CNV é a linguagem do coração
+
+### Dinâmica - Feedback Wrap (15 minutos)
+- É sugerido um cenário em que você tem que dar um feedback construtivo para uma pessoa da equipe. Monte o seu feedback conforme as regrinhas do Feedback Wrap / Comunicação Não-Violenta (CNV)
+1. Estou escrevendo para você enquanto me atualizo para uma reunião que vou entrar em breve.
+2. O vôo para Cingapura que você reservou tinha três conexões, sendo duas delas com cinco horas de tempo de espera.
+3. Fiquei bastante cansado com a viagem devido à diferença de fuso horário e as longas esperas
+4. É importante para mim que eu tenha tempo para descansar e para me preparar para as minhas reuniões
+5. Espero não fazer mais viagens de trabalho com tantas conexões longas, ficarei feliz em ajudar na escolha dos itinerários mais adequados
+
+### Feedback Canvas
+- ferramenta
+
+## Sucesso e Falha
+- Melhorar tudo (6 do Martie - olho do meio)
+
+### Celebration Grids
+- compara comportamentos com resultados
+- exercício visual, útil em retrospectivas e workshops
+- quais comportamentos foram um sucesso? (erros (4), experimentos (5), práticas (1))
+- quais comportamentos foram um fracasso? (erros (3), experimentos (6), práticas (2))
+- quais experimentos poderíamos fazer da próxima vez?
+- ordem para rodar: 
+  1. práticas com sucesso
+  2. práticas que falharam
+  3. erros que levaram a falha
+  4. erros que deram certo
+  5. experimentos que deram certo
+  6. experimentos que falharam
+
+> "Uma das coisas mais assustadoras no trabalho é o medo do fracasso, que se manifesta de várias maneiras como medo de ser julgado, medo de começar, medo do desconhecido" - David & Tom Kelley, Creative Confidence
+
+- Não é sobre a vantagem do pioneiro, é sobre a vantagem do aprendizado rápido
+
+> "A única maneira de vencer é aprender mais rápido que qualquer outra pessoa" - Eric Ries, The Lean Startup
+
+**Crie um ambiente seguro para falhar**
+- experimentar coisas novas, na expectativa de que algumas falharão
+- tornar o fracasso passível de sobrevivência, porque será comum
+- ter certeza de que você sabe quando você falhou
+
+- Faça experimentos rápidos e baratos
+
+> "O que você precisa fazer como empresa é maximizar o número de experimentos que você pode fazer por unidade de tempo" - Jeff Bezos
+
+## Conclusão
+
+> "Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana seja apenas outra alma humana" - Carl Gustav Jung
